@@ -46,9 +46,3 @@ class Product {
         return this.idIncrement;
     }
 }
-
-const product1 = new Product("Arroz", "Arroz", 150, "", "A123", 20);
-const product2 = new Product("Fideos", "Fideos", 250, "", "F123", 10);
-const product3 = new Product("Azucar", "Azucar", 320, "", "A456", 30);
-const product4 = new Product("Te", "Te", 120, "", "T123", 40);
-const product5 = new Product();
