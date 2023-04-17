@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "producto1",
+        "descripcion": "descripcion1",
+        "precio": "precio1",
+        "miniatura": "miniatura1",
+        "codigo": "codigo1",
+        "stock": "stock1"
+    },
+    {
+        "titulo": "producto2",
+        "descripcion": "descripcion2",
+        "precio": "precio2",
+        "miniatura": "miniatura2",
+        "codigo": "codigo2",
+        "stock": "stock2"
+    },
+    {
+        "titulo": "producto3",
+        "descripcion": "descripcion3",
+        "precio": "precio3",
+        "miniatura": "miniatura3",
+        "codigo": "codigo3",
+        "stock": "stock3"
+    }
+]
