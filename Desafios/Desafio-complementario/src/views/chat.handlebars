@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="mt-3">
+        <h2>Chat</h2>
+        <nav >
+            <ol>
+                <li>Chat</li>
+                <li>Socket</li>
+            </ol>
+        </nav>
+    </div>
+    <div>
+        <div id="card-messages">
+            <div>
+                <div id="parrafosMensajes">
+                    {{#messages}}
+                    <div>
+                        <div><p>{{user}}</p></div>
+                        <div><p>{{message}}</p></div>
+                    </div>
+                    {{/messages}}
+                </div>
+            </div>
+        </div>
+        <div>
+            <input id="chatBox" placeholder="Escribe tu mensaje"/>
+            <button id="botonChat">Enviar</button>
+        </div>
+    </div>
+    
+    <script src="/js/chat.js" ></script>
+</div>
