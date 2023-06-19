@@ -1,4 +1,4 @@
-import { productModel } from "../models/products.js";
+import { productModel } from "../../../Pre-entregas/pre-entrega2/src/models/products.js";
 
 export class ProductService {
     getProducts = async(limit,page,query,sort,url) => {

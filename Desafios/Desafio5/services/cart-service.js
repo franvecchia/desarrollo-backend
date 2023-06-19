@@ -1,4 +1,4 @@
-import { cartModel } from "../models/carts.js";
+import { cartModel } from "../../../Pre-entregas/pre-entrega2/src/models/carts.js";
 import { ProductService } from "./product-service.js";
 
 const productService = new ProductService();
